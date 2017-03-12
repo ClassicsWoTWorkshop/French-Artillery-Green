@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.15322 0.00271659 -2.82438</min>
+    <max>1.15322 1.74091 2.81011</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/french/F34_ARL_V39/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
